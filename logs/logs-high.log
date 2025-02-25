@@ -1,0 +1,2 @@
+{"message":"Eso tilin","level":"low","createdAt":"2025-02-24T20:53:36.067Z","origin":"check-service.ts"}{"message":"Log email sent","level":"high","createdAt":"2025-02-25T20:26:37.899Z","origin":"send-email-logs.ts"}
+{"message":"Log email sent","level":"high","createdAt":"2025-02-25T20:50:03.862Z","origin":"send-email-logs.ts"}
